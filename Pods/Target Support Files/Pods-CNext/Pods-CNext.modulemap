@@ -1,0 +1,6 @@
+framework module Pods_CNext {
+  umbrella header "Pods-CNext-umbrella.h"
+
+  export *
+  module * { export * }
+}
